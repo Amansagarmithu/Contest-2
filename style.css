@@ -1,0 +1,89 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.navbar{
+    background-color:#FCAF02;
+    padding:1%;
+    border:1px solid #FCAF02;
+    display: flex;
+    justify-content: space-between;
+}
+.start{
+    margin-left: 5%;
+}
+.bars{
+    width: 30%;
+}
+.bars>a{
+    margin-right: 10%;
+    text-decoration: none;
+    color: black;
+}
+.second{
+    color:white;
+    display:flex;
+    margin-top: 2%;
+    margin-left: 4%;
+}
+.joff{
+    height:300px;
+    width: 500px;
+    transform: scalex(-1);
+    margin-right: 10%;
+}
+.btn1{
+    background-color: #FCAF02;
+    width:200px;
+    height:40px;
+    font-size: large;
+    font-weight: bold;
+    border:1px solid #FCAF02;
+    border-radius: 20px;
+}
+.form{
+    color:#FCAF02;
+    margin-left: 4%;
+    margin-top: 4%;
+    font-size: larger;
+}
+.nael{
+    width:90%;
+    margin-bottom: 2%;
+    padding:1%;
+    border:1px solid #FCAF02;
+    background-color: black;
+    border-radius: 30px;
+}
+::placeholder{
+    color: #FCAF02;
+}
+.nt{
+    width:43%;
+    padding:1%;
+    margin-right:2%;
+    border:1px solid #FCAF02;
+    background-color: black;
+    border-radius: 30px;
+}
+#btn2{
+    margin-top: 2%;
+    margin-left: 39%;
+}
+.last{
+    border:1px solid #FCAF02;
+    color:#FCAF02;
+    width: 90%;
+    margin-left: 4%;
+    margin-top: 4%;
+    text-align: center;
+    
+}
+.columns{
+    height:50px;
+}
+#co{
+    color:black;
+    background-color: #FCAF02;
+}
